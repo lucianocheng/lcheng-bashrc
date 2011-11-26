@@ -1,0 +1,13 @@
+Author: Luciano Cheng (Luciano.Cheng@gmail.com)
+
+Storing my bashrc here since I kept getting annoyed at having to mess
+with it with every machine i'm on.  Others are welcome to enjoy.
+
+Mainly this is forked from a cool bashrc my friend had then hacked
+together over the years, but i'm hoping that storing it on github
+and having a spot where I can always pull it from will create some
+sanity in the process.
+
+There's a standing issue where there's a problem with multi-line
+input, still working on that.
+
