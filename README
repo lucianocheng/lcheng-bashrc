@@ -1,13 +1,11 @@
 Author: Luciano Cheng (Luciano.Cheng@gmail.com)
 
-Storing my bashrc here since I kept getting annoyed at having to mess
-with it with every machine i'm on.  Others are welcome to enjoy.
+These are the bash_rc files I use for Linux and mac.  For Linux I have mainly
+tested on CentOS and Ubuntu
 
-Mainly this is forked from a cool bashrc my friend had then hacked
-together over the years, but i'm hoping that storing it on github
-and having a spot where I can always pull it from will create some
-sanity in the process.
+A lot of this is hacked together over the years, but it's solid and it works.
 
-There's a standing issue where there's a problem with multi-line
-input, still working on that.
+Takes care of a few obvious things, such as:
+* Directory coloring
+* Prompt
 
