@@ -6,6 +6,10 @@ tested on CentOS and Ubuntu
 A lot of this is hacked together over the years, but it's solid and it works.
 
 Takes care of a few obvious things, such as:
-* Directory coloring
-* Prompt
+* Directory / links coloring
+* Prompt with domain in it
+* Auto-correcting common command misspellings
+* A few obvious PATH variables, such as mysql
 
+The mac one is only slightly different, I keep them separate only because
+I don't want a lot of conditionals switching between mac / linux.
